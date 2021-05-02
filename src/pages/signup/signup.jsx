@@ -78,7 +78,7 @@ const Signup = (props) => {
                 </Form.Group>
 
                 <Form.Group controlId="formCertificationId">
-                    <Form.Label>Certification ID <b>(   If not certified <a href="https://nhsvolunteerresponders.org.uk/volunteer-resources"> click here </a>) </b> </Form.Label>
+                    <Form.Label>Certification ID <b>(   If not certified <a href="/volunteer-info"> click here </a>) </b> </Form.Label>
                     <Form.Control name="certID" placeholder="Certification ID"/>
                 </Form.Group>
 
